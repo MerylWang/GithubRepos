@@ -1,0 +1,34 @@
+[
+    {
+        "model": "repos.ghuser",
+        "pk": 46695945,
+        "fields": {
+            "username": "MerylWang",
+            "html_url": "https://github.com/MerylWang"
+        }
+    },
+    {
+        "model": "repos.ghuser",
+        "pk": 24530691,
+        "fields": {
+            "username": "kyle8998",
+            "html_url": "https://github.com/kyle8998"
+        }
+    },
+    {
+        "model": "repos.ghuser",
+        "pk": 32601973,
+        "fields": {
+            "username": "reliu375",
+            "html_url": "https://github.com/reliu375"
+        }
+    },
+    {
+        "model": "repos.ghuser",
+        "pk": 40226233,
+        "fields": {
+            "username": "ehavugi",
+            "html_url": "https://github.com/ehavugi"
+        }
+    }
+]

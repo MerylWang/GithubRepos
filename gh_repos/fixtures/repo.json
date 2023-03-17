@@ -1,0 +1,912 @@
+[
+    {
+        "model": "repos.repo",
+        "pk": 180032151,
+        "fields": {
+            "name": "AudioGestureKaraoke",
+            "description": "6.835 final project: karaoke controlled by audio and gesture (using leap motion sensor)",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/MerylWang/AudioGestureKaraoke",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 181593050,
+        "fields": {
+            "name": "CFG_BostonChildrenMuseum",
+            "description": "map-calendar interface for boston children's hospital",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 1,
+            "html_url": "https://github.com/MerylWang/CFG_BostonChildrenMuseum",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 614491166,
+        "fields": {
+            "name": "GithubRepos",
+            "description": "adi fulltstack exercise",
+            "language": null,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/MerylWang/GithubRepos",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 258094388,
+        "fields": {
+            "name": "Meryl",
+            "description": "",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/MerylWang/Meryl",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 264358496,
+        "fields": {
+            "name": "Popular-Businesses",
+            "description": "mit 6.894 data visualization project (group)",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/MerylWang/Popular-Businesses",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 152817554,
+        "fields": {
+            "name": "2048",
+            "description": "2048 command line implementation",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/2048",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 93288513,
+        "fields": {
+            "name": "2D-Endless-Runner",
+            "description": "endless runner designed for mobile devices with unity and c#",
+            "language": "C#",
+            "stargazers_count": 9,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/2D-Endless-Runner",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 99712644,
+        "fields": {
+            "name": "AnimatedShell",
+            "description": "fun little bash scripts that animate the terminal",
+            "language": "Shell",
+            "stargazers_count": 0,
+            "forks_count": 1,
+            "html_url": "https://github.com/kyle8998/AnimatedShell",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 84370560,
+        "fields": {
+            "name": "AppGen",
+            "description": "simulated application store - undergraduate research",
+            "language": "Python",
+            "stargazers_count": 2,
+            "forks_count": 1,
+            "html_url": "https://github.com/kyle8998/AppGen",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 82763470,
+        "fields": {
+            "name": "AppGen---test",
+            "description": "undergraduate research",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/AppGen---test",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 89110068,
+        "fields": {
+            "name": "AppStore",
+            "description": "app store",
+            "language": "CSS",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/AppStore",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 212948563,
+        "fields": {
+            "name": "Bug",
+            "description": "add bugs to your website",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Bug",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 116837668,
+        "fields": {
+            "name": "Capital_One_Engineering_Summit",
+            "description": "capital one software engineering summit",
+            "language": "Jupyter Notebook",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Capital_One_Engineering_Summit",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 93982789,
+        "fields": {
+            "name": "Cell-Anamoly-Finder",
+            "description": "calculate certain characteristics of a roi of a cell",
+            "language": "Fortran",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Cell-Anamoly-Finder",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 106140860,
+        "fields": {
+            "name": "Chat-Application",
+            "description": "simple real time chat application using web sockets.",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 3,
+            "html_url": "https://github.com/kyle8998/Chat-Application",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 127687760,
+        "fields": {
+            "name": "CtCI-6th-Edition-Python",
+            "description": "cracking the coding interview 6th ed. python solutions",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/CtCI-6th-Edition-Python",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 97891105,
+        "fields": {
+            "name": "Django-test",
+            "description": "",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Django-test",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 116688823,
+        "fields": {
+            "name": "gitExercises",
+            "description": "https://c1-softwareengineeringsummit.github.io/gitexercises/",
+            "language": "CSS",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/gitExercises",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 151130494,
+        "fields": {
+            "name": "Hacktoberfest-2k18",
+            "description": "this repository is bascially for those who want to fresh start their open source journey or want to contribute for hacktoberfest 2k18",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Hacktoberfest-2k18",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 151205162,
+        "fields": {
+            "name": "hacktoberfest-checker",
+            "description": "check how you're doing in hacktoberfest",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/hacktoberfest-checker",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 151131636,
+        "fields": {
+            "name": "hacktoberfest18-ft",
+            "description": ":rocket: :sparkles: help beginners to contribute to open source projects",
+            "language": null,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/hacktoberfest18-ft",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 212954426,
+        "fields": {
+            "name": "lc-all-solutions",
+            "description": "my own leetcode solutions by python",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/lc-all-solutions",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 151149827,
+        "fields": {
+            "name": "LeetCode",
+            "description": ":pencil: python / c++ 11 solutions of all leetcode questions",
+            "language": "Python",
+            "stargazers_count": 10,
+            "forks_count": 17,
+            "html_url": "https://github.com/kyle8998/LeetCode",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 212949410,
+        "fields": {
+            "name": "LeetCode-1",
+            "description": "leetcode in action - python (705+)",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 2,
+            "html_url": "https://github.com/kyle8998/LeetCode-1",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 212955173,
+        "fields": {
+            "name": "Leetcode-2",
+            "description": "leetcode solutions in python",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Leetcode-2",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 225480069,
+        "fields": {
+            "name": "makneeth",
+            "description": "video sharing and watching forum (vynchronize 2?)",
+            "language": "JavaScript",
+            "stargazers_count": 2,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/makneeth",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 120952311,
+        "fields": {
+            "name": "nocode",
+            "description": "the best way to write secure and reliable applications. write nothing; deploy nowhere.",
+            "language": null,
+            "stargazers_count": 1,
+            "forks_count": 1,
+            "html_url": "https://github.com/kyle8998/nocode",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 108615423,
+        "fields": {
+            "name": "Optbnb",
+            "description": "optimize and compare your airbnb listing at a click of a button!",
+            "language": "Jupyter Notebook",
+            "stargazers_count": 14,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Optbnb",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 124585161,
+        "fields": {
+            "name": "Personal-Website",
+            "description": "all about kyle.",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Personal-Website",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 98247309,
+        "fields": {
+            "name": "Practice-Coding-Questions",
+            "description": "practice set for swe interview prep. includes my personal solutions for leetcode, ctci, spoj, etc.",
+            "language": "Python",
+            "stargazers_count": 28,
+            "forks_count": 16,
+            "html_url": "https://github.com/kyle8998/Practice-Coding-Questions",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 156474228,
+        "fields": {
+            "name": "shape-detector",
+            "description": "describe polygons on a grid.",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/shape-detector",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 105722029,
+        "fields": {
+            "name": "Simple-Twilio-SMS",
+            "description": "send texts or calls using twilio's api",
+            "language": "Python",
+            "stargazers_count": 1,
+            "forks_count": 4,
+            "html_url": "https://github.com/kyle8998/Simple-Twilio-SMS",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 141823838,
+        "fields": {
+            "name": "SlackPal",
+            "description": "slackpal, your pal that will take care of all of your bill splitting needs",
+            "language": "JavaScript",
+            "stargazers_count": 5,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/SlackPal",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 117118348,
+        "fields": {
+            "name": "SocialSpend",
+            "description": "view where you friends are spending in an exiting new visual social media platform with integrated augmented reality and real time data tracking!",
+            "language": "Objective-C",
+            "stargazers_count": 5,
+            "forks_count": 1,
+            "html_url": "https://github.com/kyle8998/SocialSpend",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 144047935,
+        "fields": {
+            "name": "Source-SCCamera",
+            "description": "",
+            "language": "Objective-C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Source-SCCamera",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 97600883,
+        "fields": {
+            "name": "Sudo-Productivity",
+            "description": "boost your \"productivity\" to the max! a fun project made for slackers by slackers.",
+            "language": "Shell",
+            "stargazers_count": 197,
+            "forks_count": 7,
+            "html_url": "https://github.com/kyle8998/Sudo-Productivity",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 88206981,
+        "fields": {
+            "name": "Void-Chrome-Extension",
+            "description": "this chrome extension will remove all images on a website.",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/Void-Chrome-Extension",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 106231287,
+        "fields": {
+            "name": "Vynchronize",
+            "description": "watch videos with friends online with the new real time video synchronization platform",
+            "language": "JavaScript",
+            "stargazers_count": 1152,
+            "forks_count": 192,
+            "html_url": "https://github.com/kyle8998/Vynchronize",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 165753871,
+        "fields": {
+            "name": "zsh-autosuggestions",
+            "description": "fish-like autosuggestions for zsh",
+            "language": "Shell",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/kyle8998/zsh-autosuggestions",
+            "owner_id": 24530691
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 136693314,
+        "fields": {
+            "name": "1806LinearAlgebra",
+            "description": "",
+            "language": "TeX",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/1806LinearAlgebra",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 140896321,
+        "fields": {
+            "name": "18_sum_research",
+            "description": "code for summer research position.",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/18_sum_research",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 209357446,
+        "fields": {
+            "name": "6.s080_labs",
+            "description": "6.s080 problem sets",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/6.s080_labs",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 328089865,
+        "fields": {
+            "name": "data_labeler",
+            "description": "",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/data_labeler",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 263769795,
+        "fields": {
+            "name": "Happy-Moments",
+            "description": "6.894 interactive data visualizations final project",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/Happy-Moments",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 367521829,
+        "fields": {
+            "name": "mlhc_translation",
+            "description": "mit 6.871 machine learning in healthcare - clinical translation project",
+            "language": "Jupyter Notebook",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/mlhc_translation",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 265705489,
+        "fields": {
+            "name": "Werewolf-Facilitation-Helper",
+            "description": "",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/reliu375/Werewolf-Facilitation-Helper",
+            "owner_id": 32601973
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 186302782,
+        "fields": {
+            "name": "6.101-project",
+            "description": "audio pitch shifting and transmission through optical fiber",
+            "language": "AGS Script",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/6.101-project",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 170934590,
+        "fields": {
+            "name": "6.115-8051",
+            "description": "6.115 related files mainly 8051 and related codes",
+            "language": "Assembly",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/6.115-8051",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 610105087,
+        "fields": {
+            "name": "AirBnB_clone",
+            "description": "",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/AirBnB_clone",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 584617646,
+        "fields": {
+            "name": "alx-higher_level_programming",
+            "description": "",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/alx-higher_level_programming",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 551044936,
+        "fields": {
+            "name": "alx-low_level_programming",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/alx-low_level_programming",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 540785668,
+        "fields": {
+            "name": "alx-pre_course",
+            "description": "i'm now a alx student, this is my first repository as a full-stack engineer",
+            "language": "Shell",
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/alx-pre_course",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 546154534,
+        "fields": {
+            "name": "alx-system_engineering-devops",
+            "description": "alx-system_engineering-devops",
+            "language": "Shell",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/alx-system_engineering-devops",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 545299480,
+        "fields": {
+            "name": "alx-zero_day",
+            "description": "",
+            "language": "Shell",
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/alx-zero_day",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 218836578,
+        "fields": {
+            "name": "chasebot",
+            "description": "chasebot project",
+            "language": "SystemVerilog",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/chasebot",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 293249152,
+        "fields": {
+            "name": "data-viz",
+            "description": "",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/data-viz",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 534996403,
+        "fields": {
+            "name": "deep-learning-course-kigali",
+            "description": "materials for deep learning course to be taught in person - kigali",
+            "language": null,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/deep-learning-course-kigali",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 547927431,
+        "fields": {
+            "name": "ehavugi",
+            "description": "config files for my github profile.",
+            "language": null,
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/ehavugi",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 170371759,
+        "fields": {
+            "name": "english2kinyarwanda",
+            "description": "",
+            "language": "Python",
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/english2kinyarwanda",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 613650119,
+        "fields": {
+            "name": "Fix_My_Code_Challenge",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/Fix_My_Code_Challenge",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 170370504,
+        "fields": {
+            "name": "kinyarwanda_text2speech",
+            "description": "a simple text to speech by concatenation",
+            "language": "Python",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/kinyarwanda_text2speech",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 293271580,
+        "fields": {
+            "name": "leaflet-map-simple",
+            "description": "",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/leaflet-map-simple",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 371942581,
+        "fields": {
+            "name": "machine-learning-for-software-engineers",
+            "description": "a complete daily plan for studying to become a machine learning engineer.",
+            "language": null,
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/machine-learning-for-software-engineers",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 590945712,
+        "fields": {
+            "name": "monty",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/monty",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 567664216,
+        "fields": {
+            "name": "printf",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/printf",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 444037832,
+        "fields": {
+            "name": "py-rwavalidator",
+            "description": "a fast minimal package to validate rwandan national ids and phone numbers using regular expressions (python version)",
+            "language": "Python",
+            "stargazers_count": 2,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/py-rwavalidator",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 575418523,
+        "fields": {
+            "name": "simple_shell",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/simple_shell",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 606580523,
+        "fields": {
+            "name": "sorting_algorithms",
+            "description": "",
+            "language": "C",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/sorting_algorithms",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 170196986,
+        "fields": {
+            "name": "vectornav-imu",
+            "description": "vectornav imu uart python interface",
+            "language": "Python",
+            "stargazers_count": 4,
+            "forks_count": 1,
+            "html_url": "https://github.com/ehavugi/vectornav-imu",
+            "owner_id": 40226233
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 544727722,
+        "fields": {
+            "name": "zero_day",
+            "description": "this is my first repository as a full-stack engineer",
+            "language": "Shell",
+            "stargazers_count": 1,
+            "forks_count": 0,
+            "html_url": "https://github.com/ehavugi/zero_day",
+            "owner_id": 40226233
+        }
+    }
+]
