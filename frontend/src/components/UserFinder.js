@@ -7,7 +7,8 @@ import Link from '@mui/material/Link';
 import Typography from '@mui/material/Typography';
 
 // TODO: highligh selected username 
-// TODO: add a textbox that filters displayed usernames by input 
+// TODO: add a textbox that filters displayed usernames by input
+// TODO: add button for removing selection  
 function UserFinder(props) {
     const USERS_API = 'http://localhost:8000/users/'
     const [users, setUsers] = useState([])

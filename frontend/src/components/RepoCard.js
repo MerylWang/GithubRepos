@@ -17,6 +17,7 @@ function RepoCard(props) {
     // TODO: make all cards constant height 
     // TODO: left align button with rest of content 
     // TODO: pass in stargazers and forks urls 
+    // TODO: add hover effect for card?
 
     return (
         <Box sx={{ minWidth: 275, boxShadow:1}}>

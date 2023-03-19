@@ -17,13 +17,19 @@ function RepoBoard(props) {
     // fetch data of repos to be displayed 
     useEffect(() => {
         // TODO: update this api, use props.selectedUsername to construct api endpoint
-        const REPOS_API = 'http://localhost:8000/repos/'
-
-        fetch(REPOS_API)
-            .then((res) => res.json())
-            .then((json) => {
-                setRepos(json)
-            })
+        // const REPOS_API = 'http://localhost:8000/repos/'
+        // TODO: display all or no repos if no username selected 
+        if (selectedUsername) {
+            const REPOS_API = `http://localhost:8000/users/${selectedUsername}/repos`
+            fetch(REPOS_API)
+                .then((res) => res.json())
+                .then((json) => {
+                    setRepos(json)
+                })
+        } else {
+            // reset board if username selection removed 
+            setRepos([])
+        }
     }, [selectedUsername])
 
     return (
