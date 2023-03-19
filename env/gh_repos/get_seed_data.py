@@ -6,6 +6,7 @@ c. For each user and repo, create corresponding json blob, and write to seed fil
 
 Some room for future improvements: 
 - if an user has more than `PER_PAGE` public repos, add logic in place to increment page number until all repos are grabbed
+    (default records per page without specifying is 30)
 """
 import requests
 import json 

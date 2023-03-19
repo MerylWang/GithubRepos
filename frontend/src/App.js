@@ -1,16 +1,3 @@
-
-
-// and list of repos 
-
-// select name -> set selectedUsername state  (component userFinder)
-  // later, add a textbox that filters displayed usernames by input 
-
-// useEffect hook on selectedUsername -> fetches corresponding repos data 
-
-
-// given selected username, display list of repo names with links (in component RepoBoard)
-
-// next, style repo & relevant information into cards (new component RepoCard)
 import './App.css';
 import React, { useState } from 'react';
 

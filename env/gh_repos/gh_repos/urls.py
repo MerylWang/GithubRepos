@@ -14,22 +14,25 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import path, re_path, include
 
 from rest_framework import routers, viewsets
 from repos import views 
 
-from repos import views 
-
+"""
+assuming github username contains only alphanumeric characters
+check GitHub documentation to make sure
+"""
 router = routers.DefaultRouter()
 
 router.register(r'repos', views.RepoView, 'repo')
 router.register(r'users', views.GhUserView, 'user')
-# router.register(r'users/([a-zA-Z0-9]+)/repos', views.UserRepoView)
-# TODO: pass username to view -> ?
-# /users/{username}/repos -> repos of user 
+# router.register(r'users/(?P<username>[a-zA-Z0-9]+)/repos', views.UserReposView, 'user-repos')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(router.urls)),
+    re_path(r'users/(?P<username>[a-zA-Z0-9]+)/repos',
+            views.UserReposView.as_view(),
+            name='user-repos')
 ]
