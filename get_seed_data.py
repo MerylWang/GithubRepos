@@ -5,7 +5,7 @@ b. Gets a list of the public repositories for that user.
 c. For each user and repo, create corresponding json blob, and write to seed file 
 
 Some room for future improvements: 
-- if an user has more than `PER_PAGE` public repos, there would need to be logic in place to increment page number until all repos are grabbed
+- if an user has more than `PER_PAGE` public repos, add logic in place to increment page number until all repos are grabbed
 """
 import requests
 import json 
@@ -15,7 +15,7 @@ USERNAMES = ['MerylWang', 'kyle8998', 'reliu375', 'ehavugi']
 APP_NAME = 'repos'
 PER_PAGE = 35
 BASE_URL = 'https://api.github.com/users/{username}/repos?per_page={per_page}'
-
+FILES_PATH = './env/gh_repos/fixtures'
 
 ghuser_json = []
 repo_json = []
@@ -50,10 +50,10 @@ for username in USERNAMES:
             }
         })
 
-with open("./gh_repos/fixtures/ghuser.json", 'w') as f:
+with open("{}/ghuser.json".format(FILES_PATH), 'w') as f:
     json.dump(ghuser_json, f, indent=4)
 
-with open("./gh_repos/fixtures/repo.json", 'w') as f:
+with open("{}/repo.json".format(FILES_PATH), 'w') as f:
     json.dump(repo_json, f, indent=4)
 
 
