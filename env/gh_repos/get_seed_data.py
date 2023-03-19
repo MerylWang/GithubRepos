@@ -15,7 +15,7 @@ USERNAMES = ['MerylWang', 'kyle8998', 'reliu375', 'ehavugi']
 APP_NAME = 'repos'
 PER_PAGE = 35
 BASE_URL = 'https://api.github.com/users/{username}/repos?per_page={per_page}'
-FILES_PATH = './env/gh_repos/fixtures'
+FILES_PATH = './fixtures'
 
 ghuser_json = []
 repo_json = []
