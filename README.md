@@ -73,7 +73,7 @@ python3 manage.py runserver
 
 ### viewing the database using sqlite3
 
-(I used mysql locally, but trying out sqlite for deployment purposes to dodge deploying a whole database)
+(was trying to use this for deployment but the sqlite file gets erased upon deployment from heroku)
 
 https://sqlite.org/cli.html#zipdb
 
