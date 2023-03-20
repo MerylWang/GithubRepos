@@ -1,11 +1,14 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/altgraph-0.17.2-py2.py3-none-any.whl
 asgiref==3.6.0
 certifi==2022.12.7
 charset-normalizer==3.1.0
 clean-text==0.6.0
 distlib==0.3.6
+dj-database-url==1.2.0
 Django==4.1.7
 django-cors-headers==3.14.0
 django-filter==22.1
+django-on-heroku==1.1.2
 django-seed==0.3.1
 djangorestframework==3.14.0
 emoji==1.7.0
@@ -13,11 +16,13 @@ Faker==17.6.0
 filelock==3.10.0
 ftfy==6.1.1
 future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/future-0.18.2-py3-none-any.whl
+gunicorn==20.1.0
 idna==3.4
 macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
 mysql-connector-python==8.0.32
 platformdirs==3.1.1
 protobuf==3.20.3
+psycopg2-binary==2.9.5
 PyMySQL==1.0.2
 python-dateutil==2.8.2
 pytz==2022.7.1
@@ -28,3 +33,4 @@ toposort==1.10
 urllib3==1.26.15
 virtualenv==20.21.0
 wcwidth==0.2.6
+whitenoise==6.4.0
