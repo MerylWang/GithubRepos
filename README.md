@@ -1,3 +1,10 @@
+deployed at https://aqueous-journey-63498.herokuapp.com/
+relevant URLs
+
+- https://aqueous-journey-63498.herokuapp.com/users
+- https://aqueous-journey-63498.herokuapp.com/repos
+- `https://aqueous-journey-63498.herokuapp.com/users/{username}/repos`
+
 ## Backend
 
 ### `gh_repos` (backend)
