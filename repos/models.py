@@ -18,7 +18,6 @@ class Repo(models.Model):
     stargazers_count = models.IntegerField(default=0)
     forks_count = models.IntegerField(default=0)
     html_url = models.URLField(blank=True, null=True)
-    # owner = models.BigIntegerField
     owner = models.ForeignKey('GhUser', on_delete=models.CASCADE, default=0)
 
     def __str__(self):
