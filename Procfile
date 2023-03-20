@@ -1,2 +1,2 @@
 web: python3 manage.py runserver 0.0.0.0:$PORT
-release: ./release.sh
+release: chmod u+x release.sh && ./release.sh
