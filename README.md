@@ -75,6 +75,8 @@ python3 manage.py runserver
 
 (I used mysql locally, but trying out sqlite for deployment purposes to dodge deploying a whole database)
 
+https://sqlite.org/cli.html#zipdb
+
 ```
 sqlite3 db.sqlite3
 .tables
