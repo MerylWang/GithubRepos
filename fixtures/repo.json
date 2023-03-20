@@ -31,10 +31,23 @@
         "fields": {
             "name": "GithubRepos",
             "description": "adi fulltstack exercise",
-            "language": null,
+            "language": "Python",
             "stargazers_count": 0,
             "forks_count": 0,
             "html_url": "https://github.com/MerylWang/GithubRepos",
+            "owner_id": 46695945
+        }
+    },
+    {
+        "model": "repos.repo",
+        "pk": 616241485,
+        "fields": {
+            "name": "GithubReposFrontend",
+            "description": "frontend for githubrepos repo",
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "html_url": "https://github.com/MerylWang/GithubReposFrontend",
             "owner_id": 46695945
         }
     },
