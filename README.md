@@ -4,6 +4,7 @@
 
 - `gh_repos/`: Django project files
   - `urls.py`: router
+  - `settings`: configure things here, such as switching between mysql and dblite database
 - `repos/`: Django app files
   - `models.py`: defines models
   - `serializers.py`: convert model instances to JSON so that the frontend can work with the received data
@@ -69,6 +70,17 @@ python3 manage.py runserver
    python3 manage.py loaddata ./fixtures/ghuser.json
    python3 manage.py loaddata ./fixtures/repo.json
    ```
+
+### viewing the database using sqlite3
+
+(I used mysql locally, but trying out sqlite for deployment purposes to dodge deploying a whole database)
+
+```
+sqlite3 db.sqlite3
+.tables
+select * from repos_ghuser;
+select count(*) from repos_repo;
+```
 
 ### API Design Doc
 
