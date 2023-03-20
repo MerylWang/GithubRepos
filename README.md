@@ -54,8 +54,14 @@ python3 manage.py runserver
 # http://127.0.0.1:8000/
 ```
 
+with heroku, can also use
+
+```
+heroku local -p 8000
+```
+
 - go to localhost:8000
-- go to localhost:8000/admin to view models & values (admin login needed)
+- go to localhost:8000/admin to view models & values (need to create Django superuser and login as admin)
 
 ### Seeding the Database locally
 
